@@ -51,7 +51,7 @@ html {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-image: url(https://imgur.com/Ev8wWiE);
+  background-image: url(images/FinBil.png);
   background-size: cover;
 }
 
