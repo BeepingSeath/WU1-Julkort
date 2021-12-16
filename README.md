@@ -1,4 +1,4 @@
 # WU1-Julkort
-Julkort Sida
+Julkort
 
 There is a way to see what the text actually says :)
